@@ -1,0 +1,35 @@
+{
+  "name": "formiz-dynamic-form",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@chakra-ui/react": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@formiz/core": "1.8.0",
+    "@formiz/validations": "1.0.0",
+    "@types/jest": "27.0.3",
+    "@types/node": "16.11.13",
+    "@types/react": "17.0.37",
+    "@types/react-dom": "17.0.11",
+    "framer-motion": "latest",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.2",
+    "typescript": "4.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
